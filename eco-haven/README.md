@@ -36,8 +36,8 @@ The `client` directory further organizes the client-side code:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-project.git
-   cd e-commerce-project
+   git clone https://github.com/SandeepSandy0210/eco-haven.git
+   cd eco-haven
 
 
 2.  Install dependencies for both the client and server:
